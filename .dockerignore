@@ -1,0 +1,9 @@
+.git
+.gitignore
+*.test
+*.out
+*.prof
+data.wal
+*.wal
+*.compact.tmp
+README*
